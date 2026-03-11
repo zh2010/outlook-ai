@@ -1,0 +1,66 @@
+爬虫组织	爬虫网址
+科伦制药	https://www.kelun.com/
+金赛药业	https://www.genscigroup.com
+先声药业	https://www.simcere.com/
+石药集团	https://www.e-cspc.com/index.html
+正大天晴	https://www.cttq.com/index.htm
+歌礼药业	http://ascletis.com.cn/index.html
+武汉郎来	https://www.createrna.com/about-us/about-lang-lai
+京新药业	https://www.jingxinpharm.com/
+齐鲁制药	https://www.qilu-pharma.com/
+迪诺医药	http://denovo-sh.com/index.aspx
+ 苏州瑞博生物	https://www.ribolia.com/
+厦门甘宝利	http://www.kylonova.com/
+上海舶望制药	https://www.argobiopharma.com/
+上海硕迪	https://structuretx.com/
+上海和誉	https://www.abbisko.com/cn/
+艾力斯医药	https://www.allist.com.cn/
+百济神州	https://www.beonemedicines.com.cn/
+北京加科思	https://www.jacobiopharma.com/
+贝达药业	https://www.bettapharma.com/
+倍而达药业	http://cn.betapharma.com/
+东阳光药业	https://www.hecpharm.com/
+甘李药业	https://www.ganlee.com.cn/
+海正药业	https://www.hisunpharm.com/main/
+恒瑞医药	https://www.hengrui.com/
+华东医药	https://www.eastchinapharm.com/
+江苏恩华	https://www.nhwa-group.com/
+劲方医药	http://www.genfleet.com/
+明慧医药	https://www.orbimed.com/
+南京明德	https://www.wuxiapptec.cn/
+纽欧申医药	https://cn.neushen.com/
+诺诚健华	https://www.innocarepharma.com/
+上海医药	https://www.sphchina.com/index/
+深圳信立泰	https://www.salubris.com/
+首药控股	http://www.shouyaoholding.com/
+微境生物	https://www.wigenbio.com/
+武汉人福创新药物	https://renfu.com.cn/
+先声药业	https://www.simcere.com/
+益方生物	https://www.inventisbio.com/
+泽璟生物	https://www.zelgen.com/
+正大天晴	https://www.cttq.com/
+重庆药友	https://www.yaopharma.com/
+Abbvie	https://www.abbvie.com/
+Novartis，	https://www.novartis.com/
+Genentech	https://www.gene.com/
+Eli Lilly and Company	https://www.lilly.com/
+ Novo Nordisk	https://www.novonordisk.com/
+AstraZeneca AB	https://www.astrazeneca.com/
+Alnylam	https://www.alnylam.com/
+Amgen	https://www.amgen.com/
+Arrowhead	https://arrowheadpharma.com/
+Astellas Pharma	https://www.astellas.com/en/
+Bayer	https://www.bayer.com/en/
+BMS	https://www.bms.com/
+Boehringer-Ingelheim	https://www.boehringer-ingelheim.com/
+GlaxoSmithKline 	https://www.gsk.com/en-gb/
+C4	https://c4therapeutics.com/
+Gilead	https://www.gilead.com/
+Johnson & Johnson	https://www.jnj.com/
+Merck Sharp & Dohme	https://www.msd.com/
+pfizer	https://www.pfizer.com/
+Protagonist Therapeutics	https://www.protagonist-inc.com/
+Roche	https://www.roche.com/
+Sanofi	https://www.sanofi.com/en
+SHIONOGI & CO., Ltd	https://www.shionogi.com/global/en/
+Takeda Pharmaceutical Company Limited	https://www.takeda.com/
